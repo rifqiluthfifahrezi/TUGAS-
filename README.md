@@ -1,7 +1,7 @@
 Tugas-ke-7
-Nama : Yoga Pratama
+Nama : Rifqi Luthfi Fahrezi
 
-NIM : 312210042
+NIM : 312210685
 
 Kelas : TI.22.A1
 
@@ -282,4 +282,4 @@ Run Program 1
 
 Sekian penjelasan dari saya Terima Kasih
 
-Author Yoga Pratama
+Author Rifqi Luthfi Fahrezi
